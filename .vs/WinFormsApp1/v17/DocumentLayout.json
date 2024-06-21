@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|c:\\users\\vaida\\source\\repos\\winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|c:\\users\\vaida\\source\\repos\\winformsapp1\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|c:\\users\\vaida\\source\\repos\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|c:\\users\\vaida\\source\\repos\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|c:\\users\\vaida\\source\\repos\\winformsapp1\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|c:\\users\\vaida\\source\\repos\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{FC320607-A346-4679-B0E3-39F2E26B70CF}|WinFormsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T14:27:29.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T14:27:25.89Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Application.Designer.vb",
               "DocumentMoniker": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\My Project\\Application.Designer.vb",
               "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
@@ -38,17 +71,16 @@
               "RelativeToolTip": "My Project\\Application.Designer.vb",
               "ViewState": "AQIAABMAAAAAAAAAAAAkwCEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-21T12:51:24.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T12:51:24.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.vb",
               "DocumentMoniker": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\Form1.Designer.vb",
               "RelativeDocumentMoniker": "Form1.Designer.vb",
-              "ToolTip": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\Form1.Designer.vb*",
-              "RelativeToolTip": "Form1.Designer.vb*",
+              "ToolTip": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
               "ViewState": "AQIAACoAAAAAAAAAAAAYwDgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-19T04:52:17.213Z",
@@ -56,25 +88,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\Form1.vb*",
-              "RelativeToolTip": "Form1.vb*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "ToolTip": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-18T17:45:46.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\Form1.vb [Design]*",
-              "RelativeToolTip": "Form1.vb [Design]*",
+              "ToolTip": "C:\\Users\\vaida\\source\\repos\\WinFormsApp1\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-06-18T16:47:11.091Z",
               "EditorCaption": " [Design]"

@@ -35,6 +35,8 @@ Partial Class ViewSubmissionsForm
         TextBox3 = New TextBox()
         TextBox4 = New TextBox()
         TextBox5 = New TextBox()
+        Button3 = New Button()
+        Button4 = New Button()
         SuspendLayout()
         ' 
         ' Label1
@@ -93,7 +95,7 @@ Partial Class ViewSubmissionsForm
         ' 
         ' Button1
         ' 
-        Button1.Location = New Point(262, 357)
+        Button1.Location = New Point(262, 374)
         Button1.Name = "Button1"
         Button1.Size = New Size(167, 29)
         Button1.TabIndex = 6
@@ -102,7 +104,7 @@ Partial Class ViewSubmissionsForm
         ' 
         ' Button2
         ' 
-        Button2.Location = New Point(463, 357)
+        Button2.Location = New Point(463, 374)
         Button2.Name = "Button2"
         Button2.Size = New Size(152, 29)
         Button2.TabIndex = 7
@@ -144,11 +146,31 @@ Partial Class ViewSubmissionsForm
         TextBox5.Size = New Size(125, 27)
         TextBox5.TabIndex = 12
         ' 
+        ' Button3
+        ' 
+        Button3.Location = New Point(262, 409)
+        Button3.Name = "Button3"
+        Button3.Size = New Size(167, 29)
+        Button3.TabIndex = 13
+        Button3.Text = "Button3"
+        Button3.UseVisualStyleBackColor = True
+        ' 
+        ' Button4
+        ' 
+        Button4.Location = New Point(463, 409)
+        Button4.Name = "Button4"
+        Button4.Size = New Size(152, 29)
+        Button4.TabIndex = 14
+        Button4.Text = "Button4"
+        Button4.UseVisualStyleBackColor = True
+        ' 
         ' ViewSubmissionsForm
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(Button4)
+        Controls.Add(Button3)
         Controls.Add(TextBox5)
         Controls.Add(TextBox4)
         Controls.Add(TextBox3)
@@ -181,4 +203,6 @@ Partial Class ViewSubmissionsForm
     Friend WithEvents TextBox3 As TextBox
     Friend WithEvents TextBox4 As TextBox
     Friend WithEvents TextBox5 As TextBox
+    Friend WithEvents Button3 As Button
+    Friend WithEvents Button4 As Button
 End Class
